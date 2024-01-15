@@ -11,7 +11,7 @@ public class AppTest
      * Rigorous Test :-)
      */
 	@Test
-	public void exe_2_Partition_C_min_positive() {
+	public void exe_2_Partition_C_min() {
 		
 		String result = App.NumberToChar(50);
 		String expected_result="C";
